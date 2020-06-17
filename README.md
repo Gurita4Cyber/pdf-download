@@ -9,7 +9,7 @@ Mohon Subcribe Chanel
 cara Download PDF di google drive yang di private
 1. buka pdf yang mau di download 
 2. buka tool develover di google crome arakan ke console
-3. buka https://github.com/Gurita4Cyber/pdf-download
+3. buka https://github.com/Gurita4Cyber/pdf-download/blob/master/pdf-download.txt
 4. scroll pelan - pelan pdf nya
 5. copy code ke console google crome
 6. Happy Download.
